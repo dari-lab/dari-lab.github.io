@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Sung Hye Kim"
 title_separator          : "-"
-name                     : &name "Sung Hye Kim"
+name                     : &name "Sung Hye Kim's homepage"
 description              : &description "Sung Hye Kim — Tropical Medicine, Hanyang University College of Medicine"
 url                      : https://dari-lab.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
