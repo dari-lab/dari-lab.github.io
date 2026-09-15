@@ -36,6 +36,7 @@ Research Interests
 
 **Evaluating the effectiveness of health policy implementation**
 
-**Primary data collection and community-based surveys**
+**Primary data collection via community-based surveys**
 
-**Infectious disease surveillance, including neglected tropical diseases and global maternal and child health**
+**Infectious disease surveillance, including neglected tropical diseases**
+
